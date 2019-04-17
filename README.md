@@ -24,4 +24,4 @@ To preview jupyter files (.ipynb):
 5. Gun Violence Visualization (Python)
 6. Map Reduce and Mr.Job (Python)
 7. Home Credit Defaulting (Python)  
-
+8. Whack-A-Mole game (Java - MultiThreading)
