@@ -19,9 +19,9 @@ To preview jupyter files (.ipynb):
 
 1. DecisionTree - ID3 algorithm (Python)
 2. Neural Network - Forward/BackPropagation Algorithm (Python)
-3. Database Management (SQL Project)
-4. Network Intrusion Detection (R Project)
-5. Gun Violence Visualization (Python Project)
-6. Map Reduce and Mr.Job (Python assignment)
-7. Home Credit Defaulting (Python Project)  
+3. Database Management (SQL)
+4. Network Intrusion Detection (R)
+5. Gun Violence Visualization (Python)
+6. Map Reduce and Mr.Job (Python)
+7. Home Credit Defaulting (Python)  
 
