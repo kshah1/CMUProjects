@@ -17,7 +17,7 @@ To preview jupyter files (.ipynb):
 
 # CMU Projects/Assignments
 
-1. DecisionTree - ID3 algorithm (Python)
+
 2. Neural Network - Forward/BackPropagation Algorithm (Python)
 3. Database Management (SQL)
 4. Network Intrusion Detection (R)
