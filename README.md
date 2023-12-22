@@ -1,27 +1,11 @@
+#Just a few of the CMU Projects/Assignments
 
-************************************************************************************************************************
-To preview html files (.html):
+1. DataScienceAndBigDataProjOne - Gun Violence Analysis and Visualization Project 
+2. DataScienceAndBigDataProjTwo - Medical Appointments No Show Project 
+3. DataBaseProj - Car Rental Company SQL Project 
+4. HomeCreditProj - Loan Defaulting Project
+5. MapReduceAndMrJob - Data Science and Big Data Assignment performing map reduce and using mrjob
+6. Neural Network - CMU's Famous 10601 (Machine Learning) course assignment on building a Neural Network using only numpy
+7. Rproj - Network Intrusion Detection Project
+8. Whack A Mole - Java assignment on threading 
 
-1.  Click on HTML file in Github
-2.  Copy url (i.e. https://github.com/.../DSBD-Project_2.html) into https://htmlpreview.github.io/ 
-3.  Refresh the page or try entering the url into https://htmlpreview.github.io/ again since it can be buggy.
-	
-To preview jupyter files (.ipynb):
-
-1.  Click on ipynb file in Github
-2.  Copy url (i.e. https://github.com/.../Project_1_team8.ipynb) into https://nbviewer.jupyter.org/
-3.  Refresh the page or try entering the url into https://nbviewer.jupyter.org/ again since it can be buggy.
-
-*************************************************************************************************************************
-
-
-# CMU Projects/Assignments
-
-
-2. Neural Network - Forward/BackPropagation Algorithm (Python)
-3. Database Management (SQL)
-4. Network Intrusion Detection (R)
-5. Gun Violence Visualization (Python)
-6. Map Reduce and Mr.Job (Python)
-7. Home Credit Defaulting (Python)  
-8. Whack-A-Mole game (Java - MultiThreading)
