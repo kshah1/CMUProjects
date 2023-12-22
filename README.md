@@ -7,6 +7,7 @@
 5. MapReduceAndMrJob - Data Science and Big Data Assignment performing map reduce and using mrjob
 6. Neural Network - CMU's Famous 10601 (Machine Learning) course assignment on building a Neural Network using only numpy
 7. Rproj - Network Intrusion Detection Project
-8. WasteManagement - Optimization project for waste management 
-9. Whack A Mole - Java assignment on threading 
+8. RecidivismCapstone - Recidivism capstone with Pennslyvannia Committee for Sentencing 
+9. WasteManagement - Optimization project for waste management 
+10. Whack A Mole - Java assignment on threading 
 
